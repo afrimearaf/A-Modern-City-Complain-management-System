@@ -1,2 +1,2 @@
-# A Modern City-Problem management System
- PHP-based web development system for solving the problem of a specific city.
+# A Modern City | Complain management System 
+This is a case study of a city whose residents are confronted with several issues, including a poor water management system, no waste dust control methods, damaged roads, crimes, and fatalities. To remedy their situation, a mechanism must be established in which citizens may convey their concerns to local councilors. The councilor will then make a recommendation to the city mayor for a solution to the situation. Finally, the mayor has the authority to provide cash and human resources to resolving the problem.
